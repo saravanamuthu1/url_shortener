@@ -1,6 +1,6 @@
 # URL Shortener API 🚀
 
-A modern, high-performance URL Shortener REST API built with **FastAPI**, **Async SQLAlchemy**, and managed with **`uv`**.
+A high-performance URL Shortener REST API built with **FastAPI**, **Async SQLAlchemy**, and managed with **`uv`**.
 
 ---
 

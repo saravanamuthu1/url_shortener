@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from router import auth,url,redirect
+from app.routers import auth,url,redirect
 
 app = FastAPI()
 
